@@ -12,7 +12,7 @@ Exploratory data analysis of a historical aviation accident dataset using Python
 
 This project analyzes a historical aviation accident dataset to identify patterns in recorded accident counts, fatalities, aircraft types, operators, countries, weekdays, and yearly trends.
 
-The analysis is contained in [`Progetto_7_Leone_Parasporo.ipynb`](Progetto_7_Leone_Parasporo.ipynb), which has been cleaned and structured for public GitHub publication.
+The analysis is contained in [`aviation_accident.ipynb`](aviation_accident.ipynb).
 
 ## Questions Explored
 
@@ -66,7 +66,7 @@ pip install pandas numpy matplotlib jupyter
 3. Open the notebook:
 
 ```bash
-jupyter notebook Progetto_7_Leone_Parasporo.ipynb
+jupyter notebook aviation_accident.ipynb
 ```
 
 4. Run the cells from top to bottom.
@@ -77,7 +77,7 @@ The notebook will use a local `aviation-accidents.csv` file if one exists in the
 
 ```text
 .
-├── Progetto_7_Leone_Parasporo.ipynb
+├── aviation_accident.ipynb
 └── README.md
 ```
 
